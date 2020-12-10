@@ -1,0 +1,9 @@
+{
+  "name": "node-cors-test",
+  "version": "",
+  "description": "",
+  "scripts" : {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": ""
+}
